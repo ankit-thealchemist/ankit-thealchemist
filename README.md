@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit Bansal
 - 👀 I’m interested in microcontrollers and embedded devices.
 - 🌱 I’m currently learning esp32, stm32 and nrf
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on wireless technologies, especially ble
 - 📫 How to reach me ... mail me on iotdevelope@gmail.com, connect  me on skype 
 
 <!---
